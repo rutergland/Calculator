@@ -30,7 +30,7 @@ def from_cesar(s, num):
     return to_cesar(s, -num)
 
 
-# a = "abamaлох"
+# a = "abamaкнига"
 # b = to_cesar(a, 3)
 # c = from_cesar(b, 3)
 # print(b)
